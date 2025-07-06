@@ -1,0 +1,14 @@
+# macOS junk
+.DS_Store
+
+# Editor config
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS/system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
